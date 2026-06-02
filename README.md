@@ -21,3 +21,7 @@ https://deevena-vishwanathapalli.github.io/SCT_WD_1/
 ## Author
 
 Deevena Vishwanathapalli
+
+## Internship
+
+SkillCraft Technology – Web Development Internship
